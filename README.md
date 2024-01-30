@@ -37,4 +37,4 @@ Explore the usage of Lorem Ipsum, a random text generation site, in the design p
 ### [Flat ui Colors](https://flatuicolors.com/palette/defo)
 Explore the different palettes carelly picked and made so that any users and freely copy and paste for their own use.
 
-### [Click here to view the Login Form creation](https://davidhccnguyen.github.io/Relearn05-Footer/)
+### [Click here to view the Footer creation](https://davidhccnguyen.github.io/Relearn05-Footer/)
